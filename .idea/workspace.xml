@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2c3df4d-2694-499b-93a5-60afb4c3145c" name="Default Changelist" comment="" />
+    <list default="true" id="b2c3df4d-2694-499b-93a5-60afb4c3145c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tuB8Z0Bgh24mLpmTXf3Lw7C8AX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -84,27 +91,35 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="424" y="6" key="CommitChangelistDialog2" timestamp="1623661886205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623661886205" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1623658039372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1623658039372" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1623658313530">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1623661388469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623658313530" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1623658313530">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623661388469" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1623661388469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623658313530" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1623658313530">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623661388469" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1623661388469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623658313530" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1623658313530">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623661388469" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1623661388469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623658313530" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623661388469" />
     <state x="277" y="56" width="999" height="712" key="SettingsEditor" timestamp="1623646896399">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
